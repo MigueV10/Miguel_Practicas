@@ -78,7 +78,7 @@ public class Clase01 {
 	    System.out.println(numeroA >=numeroB);//el primer es mayor o igual que el segundo?
 	    System.out.println(numeroA <=numeroB);//el primer es menor o igual que el segundo?
 		
-		
+		System.out.println("hola de newe");
 		
 		
 		
