@@ -1,0 +1,29 @@
+package com.coderhouse;
+
+public class Clase01 {
+	public static void main(String[] args) {
+		//System.out.println("Hola coders");
+		
+		//Declaracion de variables 
+		
+		byte variableA = 100;
+		double variableConDecimales = -1222222.50d;//la "d" es para hacer referencia al double
+		char miPrimerChart = 'N';//para guardar un solo caracter 
+		
+		String miSegundoChart = "MI primer string ";//aqui si lo declaramos como un string klo arregla
+		
+		boolean verdadero = true;//nombre variable/asignacion
+		long numeroLargo = 233333335;
+		String nombre123="Nombres";
+		String nombre = "HOLAA";
+		
+		String saludoInicial = "Hola coders. desde un STring !!";
+		//System.out.println(saludoInicial);
+		//System.out.println(nombre123);// concatenamos
+		
+		System.out.println(saludoInicial + '' + miSegundoChart);//con el signo mas hacemos que se concatenen
+		
+		
+		
+	}
+}
